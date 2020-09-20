@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Election_Analysis
-=======
 ## Election_Analysis
 ## Overview of Election Audit
 For this election audit we were asked to complete the following tasks for a recent local congressional election in Colorado.
@@ -40,4 +37,3 @@ The analysis of the election show that:
   With more robust voter demographic data we could also better determine what demographic populations voted in which counties. The racial demographics of voters by county - when compared to the general racial demographics of the county - could also be used to determine if there is poor turnout by a particular racial demographic group. This can, in turn, be used to determine if there are particular effects of voter suppression laws or other accessiblity issues to voting on a hyperlocal level.
   
   This is all to say, this script and my ability to adapt the code for further analysis could be helpful beyond this election. If given the opportunity to continue working with the election commission further, I can provide analysis that can be used in a wide variety of ways.
->>>>>>> 0612bf0bc333cbc6ebe06473f66477f66507de52
