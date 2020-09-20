@@ -30,7 +30,7 @@ The analysis of the election show that:
   ## Election-Audit Summary
   The above analysis was completed by writing a code to output the winner of the congressional election in Colorado and the county with the highest turnout. The script also outputs a full candidate and county list and the number of votes associated with each. With some modifications this script can be utilized to output those same results in any given election, including national elections or smaller city races. The same logic applies, though the variable names may need to be updated for clarity. As you can see in the code below, I've associated different variable names to different columns in the election data that was provided:
   
-  ![Election_Analysis_Picture1.png](https://github.com/liviblocker/election_analysis/blob/master/Election_Analysis_Picture1.png)
+  ![Election_Analysis_Picture1.png](https://github.com/liviblocker/Election_Analysis/blob/master/Resources/Election_Analysis_Picture1.png)
   
   By adding candidates or counties, or the number of ballots more generally, then with the click of a button a new analysis can be run.
   
