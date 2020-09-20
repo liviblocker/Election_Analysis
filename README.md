@@ -2,9 +2,11 @@
 ## Overview of Election Audit
 For this election audit we were asked to complete the following tasks for a recent local congressional election in Colorado.
 
-  1. Calculate the voter turnout for each county.
-  2. Calculate the percentage of votes from each county out of the total count.
-  3. Determine the county with the highest turnout.
+  * Determine totaly number of votes cast in the congressional election.
+  * Calculate the voter turnout for each county (by number and percentage).
+  * Determine the county with the highest turnout.
+  * Calculate the number of votes per candidate (by number of votes and percentage).
+  * Determine the winner of the election.
 
 ## Election-Audit Results:
 The analysis of the election show that:
